@@ -12,9 +12,9 @@
 3. Chappell Roan
 ---
 ## *Top 3 Songs*
-1. [Keeping Tabs](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2zz4plJxtgMIsQg5SMl2Bg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>) - Niki
-2. [Savior Complex](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5BN59BDczcpxstFKILIH0q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>) - Phoebe Bridgers
-3. [Love Me Anyways](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/53KWkwzQq47p13swqiLAMI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>) - Chappell Roan
+1. Keeping Tabs - Niki
+2. Savior Complex - Phoebe Bridgers
+3. Love Me Anyways - Chappell Roan
 ---
 | *Series* | *Movies* |
 | --- | ----------- |
